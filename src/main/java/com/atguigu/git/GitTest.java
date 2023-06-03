@@ -14,5 +14,7 @@ public class GitTest {
         System.out.println("hello");
         System.out.println("你是谁");
         System.out.println("华山剑");
+        System.out.println("你好");
+        System.out.println("大家好");
     }
 }
