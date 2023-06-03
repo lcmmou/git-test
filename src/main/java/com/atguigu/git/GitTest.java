@@ -1,0 +1,16 @@
+package com.atguigu.git;
+
+/**
+ * ClassName: GitTest
+ * Package: com.atguigu.git
+ * Description:
+ *
+ * @Author 李岑某
+ * @Create 2023/6/3 11:22
+ * @Version 1.0
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
+}
